@@ -1,0 +1,4 @@
+Experiment,Neurons,Epochs,Accuracy
+Experiment 1,16,20,0.9825000166893005
+Experiment 2,32,20,0.9825000166893005
+Experiment 3,16,50,0.9825000166893005
